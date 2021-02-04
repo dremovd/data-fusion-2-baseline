@@ -1,4 +1,4 @@
-# data-fusion-1-baseline by 
+# data-fusion-2-baseline by 
 ## Dmitry Dryomov @ Lamoda DS team
 How to run:
 * Copy train dataset in `data/data_fusion_train.parquet`
